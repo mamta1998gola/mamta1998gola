@@ -35,7 +35,7 @@ You can preview my resume [here](https://mamta1998gola.github.io/mamta-resume/).
 If you have any questions or would like to get in touch, feel free to reach out to me:
 
 - **Email**: [mamta1998gola@gmail.com](mailto:mamta1998gola@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mamta-gola-6007341b3/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mamta-gola-6007341b3/)
 - **Website**: [ClayCrafts E-Commerce Platform](https://clay-crafts-shopping-mamta.vercel.app/)
 
 Thank you for visiting my resume repository!
